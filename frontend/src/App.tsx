@@ -9,7 +9,7 @@ import {
   useConnectors,
 } from "@fuel-wallet/react";
 import { BlogContractAbi, BlogContractAbi__factory } from "./contracts";
-import { BigNumberish, Provider, Wallet, BN } from "fuels";
+import { BigNumberish } from "fuels";
 // import { Fuel } from '@fuel-wallet/sdk';
 import { IdentityOutput } from "./contracts/BlogContractAbi";
 
